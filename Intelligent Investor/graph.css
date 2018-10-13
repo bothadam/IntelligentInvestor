@@ -10,20 +10,24 @@
     margin-top: 60%;
 }
 
-#dot:hover{
-    -ms-transform: scale(2, 2); /* IE 9 */
-    -webkit-transform: scale(2, 2); /* Safari */
+#dot:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
     transform: scale(2, 2);
 }
 
 #dot2 {
-     width: 8%;
+    width: 8%;
     margin-bottom: 5%
 }
 
-#dot2:hover{
-    -ms-transform: scale(2, 2); /* IE 9 */
-    -webkit-transform: scale(2, 2); /* Safari */
+#dot2:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
     transform: scale(2, 2);
 }
 
@@ -32,18 +36,24 @@
     margin-bottom: 14%
 }
 
-#dot3:hover{
-    -ms-transform: scale(2, 2); /* IE 9 */
-    -webkit-transform: scale(2, 2); /* Safari */
+#dot3:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
     transform: scale(2, 2);
 }
+
 #dot4 {
     width: 8%;
     margin-bottom: 22%
 }
-#dot4:hover{
-    -ms-transform: scale(2, 2); /* IE 9 */
-    -webkit-transform: scale(2, 2); /* Safari */
+
+#dot4:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
     transform: scale(2, 2);
 }
 
@@ -51,8 +61,103 @@
     width: 8%;
     margin-bottom: 14%
 }
-#dot5:hover{
-    -ms-transform: scale(2, 2); /* IE 9 */
-    -webkit-transform: scale(2, 2); /* Safari */
+
+#dot5:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
+    transform: scale(2, 2);
+}
+
+#dot6 {
+    width: 8%;
+    margin-bottom: 25%
+}
+
+#dot6:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
+    transform: scale(2, 2);
+}
+
+#dot7 {
+    width: 8%;
+    margin-bottom: 35%
+}
+
+#dot7:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
+    transform: scale(2, 2);
+}
+
+#dot8 {
+    width: 8%;
+    margin-bottom: 45%
+}
+
+#dot8:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
+    transform: scale(2, 2);
+}
+
+#dot9 {
+    width: 8%;
+    margin-bottom: 30%
+}
+
+#dot9:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
+    transform: scale(2, 2);
+}
+
+
+#dot10 {
+    width: 8%;
+    margin-bottom: 30%
+}
+
+#dot10:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
+    transform: scale(2, 2);
+}
+
+#dot11 {
+    width: 8%;
+    margin-bottom: 30%
+}
+
+#dot11:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
+    transform: scale(2, 2);
+}
+
+#dot12 {
+    width: 8%;
+    margin-bottom: 30%
+}
+
+#dot12:hover {
+    -ms-transform: scale(2, 2);
+    /* IE 9 */
+    -webkit-transform: scale(2, 2);
+    /* Safari */
     transform: scale(2, 2);
 }
