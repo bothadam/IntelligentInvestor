@@ -1,9 +1,38 @@
+.navigation-bar {
+    background-color:black;
+    overflow: hidden;
+	opacity: 0.59;
+}
+
+.navigation-bar a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+	font-family : Verdana;
+	
+}
+
+.navigation-bar a:hover {
+    background-color: #778899;
+    color: black;
+}
+
+
+.navigation-bar a.active {
+   
+    background-color: #778899;
+    color: white;
+}
+
 .graph {
-    margin-top: auto;
+    margin-top: 10%;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
-    height: 100%;
+    width: 50%;
+    height: 80%;
     border: 1px solid green;
 }
 
@@ -22,7 +51,7 @@
 
 #dot2 {
     width: 8%;
-    margin-bottom: 5%;
+    margin-bottom: 7%;
     margin-left: 5%;
     transition: 0.5s ease-in-out;
 }
@@ -46,7 +75,7 @@
 
 #dot4 {
     width: 8%;
-    margin-bottom: 22%;
+    margin-bottom: 21%;
     margin-left: 5%;
     transition: 0.5s ease-in-out;
 
@@ -65,13 +94,13 @@
 }
 
 #dot5:hover {
-    transform: scale(2, 2) translate(0%, 30%);
+    transform: scale(2, 2) translate(0%, -30%);
     transition: 1s ease-in-out;
 }
 
 #dot6 {
     width: 8%;
-    margin-bottom: 25%;
+    margin-bottom: 20%;
     margin-left: 5%;
     transition: 0.5s ease-in-out;
 }
@@ -83,13 +112,13 @@
 
 #dot7 {
     width: 8%;
-    margin-bottom: 35%;
+    margin-bottom: 28%;
     margin-left: 5%;
     transition: 0.5s ease-in-out;
 }
 
 #dot7:hover {
-    transform: scale(2, 2) translate(0%, 30%);
+    transform: scale(2, 2) translate(0%, -30%);
     transition: 1s ease-in-out;
 }
 
@@ -104,58 +133,3 @@
     transition: 1s ease-in;
 }
 
-#dot9 {
-    width: 8%;
-    margin-bottom: 30%;
-    margin-left: 5%;
-}
-
-#dot9:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
-}
-
-
-#dot10 {
-    width: 8%;
-    margin-bottom: 30%;
-    margin-left: 5%;
-}
-
-#dot10:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
-}
-
-#dot11 {
-    width: 8%;
-    margin-bottom: 30%;
-    margin-left: 5%;
-}
-
-#dot11:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
-}
-
-#dot12 {
-    width: 8%;
-    margin-bottom: 30%
-}
-
-#dot12:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
-}
