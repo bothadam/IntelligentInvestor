@@ -1,117 +1,113 @@
 .graph {
     margin-top: auto;
-    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
     height: 100%;
-    border: 3px solid green;
+    border: 1px solid green;
 }
 
 #dot {
     width: 8%;
-    margin-top: 60%;
+    margin-bottom: 0%;
+    margin-left: 5%;
+    transition: 0.5s ease-in-out;
+
 }
 
 #dot:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, -30%);
+    transition: 1s ease-in-out;
 }
 
 #dot2 {
     width: 8%;
-    margin-bottom: 5%
+    margin-bottom: 5%;
+    margin-left: 5%;
+    transition: 0.5s ease-in-out;
 }
 
 #dot2:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, -30%);
+    transition: 1s ease-in-out;
 }
 
 #dot3 {
     width: 8%;
-    margin-bottom: 14%
+    margin-bottom: 14%;
+    margin-left: 5%;
+    transition: 0.5s ease-in-out;
 }
 
 #dot3:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, -30%);
+    transition: 1s ease-in-out;
 }
 
 #dot4 {
     width: 8%;
-    margin-bottom: 22%
+    margin-bottom: 22%;
+    margin-left: 5%;
+    transition: 0.5s ease-in-out;
+
 }
 
 #dot4:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, -30%);
+    transition: 1s ease-in-out;
 }
 
 #dot5 {
     width: 8%;
-    margin-bottom: 14%
+    margin-bottom: 14%;
+    margin-left: 5%;
+    transition: 0.5s ease-in-out;
 }
 
 #dot5:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, 30%);
+    transition: 1s ease-in-out;
 }
 
 #dot6 {
     width: 8%;
-    margin-bottom: 25%
+    margin-bottom: 25%;
+    margin-left: 5%;
+    transition: 0.5s ease-in-out;
 }
 
 #dot6:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, -30%);
+    transition: 1s ease-in-out;
 }
 
 #dot7 {
     width: 8%;
-    margin-bottom: 35%
+    margin-bottom: 35%;
+    margin-left: 5%;
+    transition: 0.5s ease-in-out;
 }
 
 #dot7:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, 30%);
+    transition: 1s ease-in-out;
 }
 
 #dot8 {
     width: 8%;
-    margin-bottom: 45%
+    margin-bottom: 45%;
+    margin-left: 5%;
 }
 
 #dot8:hover {
-    -ms-transform: scale(2, 2);
-    /* IE 9 */
-    -webkit-transform: scale(2, 2);
-    /* Safari */
-    transform: scale(2, 2);
+    transform: scale(2, 2) translate(0%, -30%);
+    transition: 1s ease-in;
 }
 
 #dot9 {
     width: 8%;
-    margin-bottom: 30%
+    margin-bottom: 30%;
+    margin-left: 5%;
 }
 
 #dot9:hover {
@@ -125,7 +121,8 @@
 
 #dot10 {
     width: 8%;
-    margin-bottom: 30%
+    margin-bottom: 30%;
+    margin-left: 5%;
 }
 
 #dot10:hover {
@@ -138,7 +135,8 @@
 
 #dot11 {
     width: 8%;
-    margin-bottom: 30%
+    margin-bottom: 30%;
+    margin-left: 5%;
 }
 
 #dot11:hover {
